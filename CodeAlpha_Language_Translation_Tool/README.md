@@ -174,7 +174,7 @@ Go to **http://localhost:5000** and start translating! 🎉
 
 ### Step 4: Update `.env`
 ```env
-TRANSLATOR_API_KEY=7fRNRz1lyOk2S5TOvGReYI1VgSw49k7J0f9fYOQZG99EhqxXpawdJQQJ99CFAC3pKaRXJ3w3AAAbACOGWGD4
+TRANSLATOR_API_KEY=
 TRANSLATOR_REGION=eastasia
 TRANSLATOR_ENDPOINT=https://api.cognitive.microsofttranslator.com
 PORT=5000
