@@ -1,0 +1,4 @@
+Place MAESTRO .mid or .midi files in this folder.
+
+Year subfolders are supported. Dataset files are intentionally excluded from
+Git because the MAESTRO collection is large.
